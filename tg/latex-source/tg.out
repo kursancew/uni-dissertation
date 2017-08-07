@@ -1,0 +1,37 @@
+\BOOKMARK [1][-]{section*.5}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1}{A Short Introduction to Behavioral Synthesis}{}% 2
+\BOOKMARK [2][-]{subsection.1.1}{Synthesis Flow}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Coding of Moving Pictures}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Pre-processing}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Spatial Compression}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.3}{Temporal Compression}{section.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Motion Compensation}{subsection.2.3}% 8
+\BOOKMARK [3][-]{subsubsection.2.3.2}{P and B Frame Types}{subsection.2.3}% 9
+\BOOKMARK [3][-]{subsubsection.2.3.3}{Removal of redundancy in data coding}{subsection.2.3}% 10
+\BOOKMARK [1][-]{section.3}{Related Works}{}% 11
+\BOOKMARK [2][-]{subsection.3.1}{Behavioral SystemC Implementation of an MP3 Decoder}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.2}{SystemC RTL Implementation of an MPEG-4 decoder}{section.3}% 13
+\BOOKMARK [1][-]{section.4}{A Synthesizable MPEG-2 Video Encoder}{}% 14
+\BOOKMARK [2][-]{subsection.4.1}{Design Requirements}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.2}{Top Level Design Partitioning}{section.4}% 16
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Frame Control}{subsection.4.2}% 17
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Motion Estimator}{subsection.4.2}% 18
+\BOOKMARK [3][-]{subsubsection.4.2.3}{DCT}{subsection.4.2}% 19
+\BOOKMARK [3][-]{subsubsection.4.2.4}{Quantizer}{subsection.4.2}% 20
+\BOOKMARK [3][-]{subsubsection.4.2.5}{Interleave and VLC}{subsection.4.2}% 21
+\BOOKMARK [3][-]{subsubsection.4.2.6}{Motion Vector Coder}{subsection.4.2}% 22
+\BOOKMARK [3][-]{subsubsection.4.2.7}{Stream Builder}{subsection.4.2}% 23
+\BOOKMARK [3][-]{subsubsection.4.2.8}{Inverse Path Modules}{subsection.4.2}% 24
+\BOOKMARK [3][-]{subsubsection.4.2.9}{Reference}{subsection.4.2}% 25
+\BOOKMARK [3][-]{subsubsection.4.2.10}{Interfaces Between the Modules}{subsection.4.2}% 26
+\BOOKMARK [2][-]{subsection.4.3}{Verification of the Design}{section.4}% 27
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Verification Environment}{subsection.4.3}% 28
+\BOOKMARK [2][-]{subsection.4.4}{Design Difficulties}{section.4}% 29
+\BOOKMARK [3][-]{subsubsection.4.4.1}{Behavioral Synthesis}{subsection.4.4}% 30
+\BOOKMARK [3][-]{subsubsection.4.4.2}{Placement and Routing and Timing Closure}{subsection.4.4}% 31
+\BOOKMARK [2][-]{subsection.4.5}{Prototyping Platform}{section.4}% 32
+\BOOKMARK [2][-]{subsection.4.6}{Results}{section.4}% 33
+\BOOKMARK [2][-]{subsection.4.7}{Future Works}{section.4}% 34
+\BOOKMARK [1][-]{section*.30}{Conclusion}{}% 35
+\BOOKMARK [1][-]{section*.31}{Bibliography}{}% 36
+\BOOKMARK [1][-]{section*.33}{CD-ROM}{}% 37

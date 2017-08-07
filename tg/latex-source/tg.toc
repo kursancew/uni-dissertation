@@ -1,0 +1,37 @@
+\contentsline {section}{Introduction}{9}{section*.5}
+\contentsline {section}{\numberline {1}A Short Introduction to Behavioral Synthesis}{10}{section.1}
+\contentsline {subsection}{\numberline {1.1}Synthesis Flow}{12}{subsection.1.1}
+\contentsline {section}{\numberline {2}Coding of Moving Pictures}{14}{section.2}
+\contentsline {subsection}{\numberline {2.1}Pre-processing}{15}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Spatial Compression}{16}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Temporal Compression}{18}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Motion Compensation}{19}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}P and B Frame Types}{20}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Removal of redundancy in data coding}{21}{subsubsection.2.3.3}
+\contentsline {section}{\numberline {3}Related Works}{22}{section.3}
+\contentsline {subsection}{\numberline {3.1}Behavioral SystemC Implementation of an MP3 Decoder}{22}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}SystemC RTL Implementation of an MPEG-4 decoder}{23}{subsection.3.2}
+\contentsline {section}{\numberline {4}A Synthesizable MPEG-2 Video Encoder}{24}{section.4}
+\contentsline {subsection}{\numberline {4.1}Design Requirements}{24}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Top Level Design Partitioning}{24}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Frame Control}{25}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Motion Estimator}{26}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}DCT}{27}{subsubsection.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.4}Quantizer}{28}{subsubsection.4.2.4}
+\contentsline {subsubsection}{\numberline {4.2.5}Interleave and VLC}{28}{subsubsection.4.2.5}
+\contentsline {subsubsection}{\numberline {4.2.6}Motion Vector Coder}{28}{subsubsection.4.2.6}
+\contentsline {subsubsection}{\numberline {4.2.7}Stream Builder}{28}{subsubsection.4.2.7}
+\contentsline {subsubsection}{\numberline {4.2.8}Inverse Path Modules}{29}{subsubsection.4.2.8}
+\contentsline {subsubsection}{\numberline {4.2.9}Reference}{29}{subsubsection.4.2.9}
+\contentsline {subsubsection}{\numberline {4.2.10}Interfaces Between the Modules}{29}{subsubsection.4.2.10}
+\contentsline {subsection}{\numberline {4.3}Verification of the Design}{30}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Verification Environment}{31}{subsubsection.4.3.1}
+\contentsline {subsection}{\numberline {4.4}Design Difficulties}{32}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}Behavioral Synthesis}{33}{subsubsection.4.4.1}
+\contentsline {subsubsection}{\numberline {4.4.2}Placement and Routing and Timing Closure}{36}{subsubsection.4.4.2}
+\contentsline {subsection}{\numberline {4.5}Prototyping Platform}{36}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Results}{38}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}Future Works}{43}{subsection.4.7}
+\contentsline {section}{Conclusion}{45}{section*.30}
+\contentsline {section}{Bibliography}{46}{section*.31}
+\contentsline {section}{CD-ROM}{48}{section*.33}

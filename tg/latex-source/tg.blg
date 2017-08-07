@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/dev/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: tg.aux
+A level-1 auxiliary file: results.aux
+The style file: unsrt.bst
+Database file #1: myrefs.bib
+Warning--string name "june" is undefined
+--line 150 of file myrefs.bib
+Warning--empty author in beh_grounds
+Warning--empty year in beh_grounds
+Warning--empty year in digitalcircuits
+Warning--empty year in viship
+Warning--empty year in motion
+Warning--empty journal in ipprocess
+Warning--empty note in mpeg2dec
+You've used 26 entries,
+            1791 wiz_defined-function locations,
+            565 strings with 6519 characters,
+and the built_in function-call counts, 3680 in all, are:
+= -- 295
+> -- 159
+< -- 0
++ -- 67
+- -- 41
+* -- 154
+:= -- 635
+add.period$ -- 74
+call.type$ -- 26
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 33
+duplicate$ -- 209
+empty$ -- 394
+format.name$ -- 41
+if$ -- 809
+int.to.chr$ -- 0
+int.to.str$ -- 26
+missing$ -- 25
+newline$ -- 129
+num.names$ -- 23
+pop$ -- 98
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 81
+stack$ -- 0
+substring$ -- 0
+swap$ -- 27
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 7
+while$ -- 23
+width$ -- 28
+write$ -- 256
+(There were 8 warnings)
